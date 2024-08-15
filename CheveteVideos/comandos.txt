@@ -1,7 +1,0 @@
-<budy> = contém o corpo de um documento HTML, que é exibido pelo navegador em sua janela, ou seja, todo o conteúdo visível do site.
-
-<header> =  representa um grupo de suporte introdutório ou navegacional(pode conter o cabeçalho, logo, seleção de cabeçalho, pesquisa e etc)
-
-<h1> = é um cabeçalho HTML geralmente utilizado para marcar o título de uma página da web
-
-<p> = por um paragrafo
